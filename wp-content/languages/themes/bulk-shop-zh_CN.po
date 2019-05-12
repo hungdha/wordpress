@@ -1,0 +1,60 @@
+# Translation of Themes - Bulk Shop in Chinese (China)
+# This file is distributed under the same license as the Themes - Bulk Shop package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-13 08:27:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Bulk Shop\n"
+
+#. Description of the plugin/theme
+msgid "Bulk Shop is a free WooCommerce theme for WordPress. The theme works perfectly for a store that offers fashions, electronics, or any other type of products. DEMO: http://bulk.themes4wp.com/bulk-shop/"
+msgstr "Bulk Shop 是一个免费的 WordPress WooCommerce 主题。该主题适用于提供时尚、电子或任何其他类型产品的商店。演示：http://bulk.themes4wp.com/bulk-shop/"
+
+#. Theme Name of the plugin/theme
+msgid "Bulk Shop"
+msgstr "Bulk Shop"
+
+#: functions.php:80
+msgid "View your shopping cart"
+msgstr "查看您的购物车"
+
+#. translators: %s: link to https://wordpress.org/
+#: functions.php:140
+msgid "Proudly powered by %s"
+msgstr "自豪地采用%s"
+
+#: functions.php:140
+msgid "https://wordpress.org/"
+msgstr "https://cn.wordpress.org/"
+
+#. translators: %1$s: link to theme page
+#: functions.php:145
+msgid "Theme: %1$s"
+msgstr "主题: %1$s"
+
+#. translators: %1$s plugin name string
+#: functions.php:164
+msgid "To enable shop features, please install and activate the %s plugin."
+msgstr "要启用商店功能，请安装并激活 ％s 插件。"
+
+#. translators: %1$s plugin name string
+#: functions.php:170
+msgid "To take full advantage of all the features this theme has to offer, please install and activate the %s plugin."
+msgstr "要充分利用本主题提供的所有功能, 请安装并激活 %s 插件。"
+
+#. Theme URI of the plugin/theme
+msgid "https://themes4wp.com/theme/bulk-shop/"
+msgstr "https://themes4wp.com/theme/bulk-shop/"
+
+#. Author of the plugin/theme
+msgid "Themes4WP"
+msgstr "Themes4WP"
+
+#. Author URI of the plugin/theme
+msgid "https://themes4wp.com/"
+msgstr "https://themes4wp.com/"
